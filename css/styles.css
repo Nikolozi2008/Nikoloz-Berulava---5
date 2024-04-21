@@ -111,3 +111,46 @@
 .qvemot{
     margin-bottom: 50px;
 }
+.box{
+    width: 500px;
+    height: 192px;
+    background: #E7E7E7;
+    margin-left: 220px;
+    background: url(</img/lupa.png>) lightgray 50% / cover no-repeat;
+}
+.arvici{
+    width: 307px;
+    color: #3F4145;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.txt5{
+    width: 335px;
+    height: 95px;
+    color: #7E8898;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.yuti2{
+    width: 500px;
+    height: 192px;
+    background: lightgray;
+    margin-left:  790px;
+    margin-top: -190px;
+}
+.txt6{
+    width: 335px;
+    height: 95px;
+    color: #7E8898;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
